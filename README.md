@@ -9,18 +9,13 @@
 
 <code>
 git clone https://github.com/FRn13ds/instaOSINT.git
-
 cd instaOSINT
-
 pip install -r requirements.txt
 </code> 
 
 <h1>Linux</h1>
 <code>
 sudo git clone https://github.com/FRn13ds/instaOSINT.git
-
 cd instaOSINT
-
 pip3 install -r requirements.txt
-
 </code>

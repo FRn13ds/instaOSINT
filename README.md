@@ -22,6 +22,6 @@ pip3 install -r requirements.txt
 
 <h1>Usage </h1>
 <h2>Termux </h2>
-<code>python main.py <username>></code>
+<code>python main.py <'username'></code>
 <h2>Linux </h2>
-<code>python3 main.py<username>>></code>
+<code>python3 main.py<'username'></code>

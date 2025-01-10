@@ -15,7 +15,7 @@ cd instaOSINT
 pip install -r requirements.txt
 </code> 
 
-<h1>Linux</h1>h1>
+<h1>Linux</h1>
 <code>
 sudo git clone https://github.com/FRn13ds/instaOSINT.git
 

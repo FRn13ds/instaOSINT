@@ -1,6 +1,6 @@
-###> instaOSINT
+### instaOSINT
 
->Free tool to get information about an instagram account for educational purposes only
+Free tool to get information about an instagram account for educational purposes only
 
 
 ##download 

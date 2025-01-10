@@ -1,27 +1,26 @@
-### instaOSINT
+<h1> instaOSINT</h1>
 
-Free tool to get information about an instagram account for educational purposes only
-
-
-## Download 
-
-### Termux 
+<p> >Free tool to get information about an instagram account for educational purposes only</p>
 
 
+<h2> Download </h2>
+
+<h1> Termux </h1>
+
+<code>
 git clone https://github.com/FRn13ds/instaOSINT.git
 
 cd instaOSINT
 
 pip install -r requirements.txt
+</code> 
 
-### Linux
-
+<h1>Linux</h1>h1>
+<code>
 sudo git clone https://github.com/FRn13ds/instaOSINT.git
 
 cd instaOSINT
 
 pip3 install -r requirements.txt
 
-## Usage 
-
-python main.py<username>
+</code>

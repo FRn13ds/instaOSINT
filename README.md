@@ -24,4 +24,4 @@ pip3 install -r requirements.txt
 
 ## Usage 
 
-python main.py <username>
+python main.py<username>

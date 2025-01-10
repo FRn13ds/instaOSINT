@@ -1,5 +1,6 @@
-<h3 style="color:green;">instaOSINT</h3>
-<p>Free tool to get information about an instagram account for educational purposes only </p>
+###> instaOSINT
+
+>Free tool to get information about an instagram account for educational purposes only
 
 
 ##download 
